@@ -16,26 +16,26 @@
 
 ---
 
-### üëã About me
+### &#128075; About me
 
-- üéÆ I build **private game servers** and the tools around them
-- üîß Currently working on a **Pok√©mon GO private server**: login, live map, Pok√©Stops, gyms and catching
-- üçé Also making native **macOS apps**
-- üå± Always learning: networking, protocols, and how old games really work under the hood
+- &#127918; I build **private game servers** and the tools around them
+- &#128295; Currently working on a **Pok&#233;mon GO private server**: login, live map, Pok&#233;Stops, gyms and catching
+- &#127822; Also making native **macOS apps**
+- &#127793; Always learning: networking, protocols, and how old games really work under the hood
 
-### ‚≠ê Featured project
+### &#11088; Featured project
 
 <table><tr><td>
 
-**[üéÆ Pokemon-Go-Private-Server](https://github.com/Bracky-dev/Pokemon-Go-Private-Server)**
+**[&#127918; Pokemon-Go-Private-Server](https://github.com/Bracky-dev/Pokemon-Go-Private-Server)**
 
-A private server that brings the game back: login, a live map, working Pok√©Stops, gyms and Pok√©mon catching.
+A private server that brings the game back: login, a live map, working Pok&#233;Stops, gyms and Pok&#233;mon catching.
 
 <a href="https://github.com/Bracky-dev/Pokemon-Go-Private-Server/stargazers"><img src="https://img.shields.io/github/stars/Bracky-dev/Pokemon-Go-Private-Server?style=flat-square&color=38bdf8&label=stars" alt="Stars" /></a> <a href="https://github.com/Bracky-dev/Pokemon-Go-Private-Server/forks"><img src="https://img.shields.io/github/forks/Bracky-dev/Pokemon-Go-Private-Server?style=flat-square&color=38bdf8&label=forks" alt="Forks" /></a>
 
 </td></tr></table>
 
-### üìä GitHub stats
+### &#128202; GitHub stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bracky-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&disable_animations=true" alt="Stats" />
@@ -48,7 +48,7 @@ A private server that brings the game back: login, a live map, working Pok√©S
 ---
 
 <div align="center">
-  <sub>Formerly <b>mobraxton5-ux</b> ¬∑ Thanks for stopping by!</sub>
+  <sub>Formerly <b>mobraxton5-ux</b> &#183; Thanks for stopping by!</sub>
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 </div>
